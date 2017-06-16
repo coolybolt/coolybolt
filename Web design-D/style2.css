@@ -1,0 +1,47 @@
+body{
+    font-family: cursive;
+}
+
+
+a{
+
+}
+a:hover {
+    
+}
+
+
+.img-2 {
+    display: block;
+   position: relative;
+    width: 10%;
+    left: 43%;
+    top: 20%;
+    transform: (-50%,-50);
+}
+
+.bob {
+    display: block;
+   position: relative;
+    width: 30%;
+    left: 20%;
+    top: 0%;
+    transform: (-50%,-50);
+}
+
+header nav {
+    
+    
+    
+}
+
+ul {
+    
+    
+    
+}
+
+li{
+    background-color: #4a43f7;
+    
+}
